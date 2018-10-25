@@ -21,7 +21,3 @@ Et :
 ```
 rails db:migrate
 ```
-
-## 👉🏼 Auteurs 👈🏼
-
-Ce travail a été réalisé en pair-programming avec Anaïs Diologeant et Mustapha Ait Ouayhou.
